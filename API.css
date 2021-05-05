@@ -1,0 +1,156 @@
+#main{
+	width: 90%;
+	text-align: center;
+}
+#main h1{
+	font-size: 50px;
+}
+
+#link{
+	background-color: green;
+	border-radius: 10px;
+	text-decoration: none;
+	padding: 7px;
+	margin-top: 10px;
+	color: white;
+}
+
+#main1{
+	width: 90%;
+	text-align: center;
+}
+
+#link1{
+	background-color: green;
+	border-radius: 10px;
+	text-decoration: none;
+	padding: 7px;
+	margin-top: 10px;
+	color: white;
+	
+}
+#main2{
+	width: 80%;
+	text-align: center;
+}
+
+
+#link2{
+	background-color: green;
+	border-radius: 10px;
+	text-decoration: none;
+	padding: 7px 0;
+	margin-top: 10px;
+	color: white;
+	display:block;
+	width: 130px;
+	margin-left: 570px;
+
+}
+
+.w{
+	display: inline-block;
+}
+
+#bo{
+	width: 80%;
+	
+}
+
+#dep{
+	display: inline-flex;
+	justify-content: space-between;
+	width: 70%;
+	align-content: center;
+	margin: 30px auto;
+}
+#lef{
+	margin-left: 400px;
+	border: 1px solid black;
+	width: 270px;
+	margin-right: 20px;
+	text-align: center;
+}
+#left + p{
+	margin-left: 30px;
+}
+#ri{
+	border: 1px solid black;
+	width:  300px;
+	text-align: center;
+}
+
+#co{
+	text-align: center;
+
+
+
+}
+
+#bord{
+	height: 20vh;
+	width: 150px;
+	border: 1px solid black;
+	background-color: gray;
+	margin-left: 45px;
+}
+
+#bord img{
+	width: 100%;
+	height: auto;
+}
+#g1{
+	text-align: center;
+	background-color: green;
+	width: 400px;
+	padding: 10px;
+	margin-left: 550px;
+	cursor: pointer;
+	color: white;
+}
+#b1{
+	text-align: center;
+	background-color: blue;
+	width: 400px;
+	padding: 10px;
+	margin-left: 530px;
+	color: white;
+	text-decoration: none;
+	margin-top: 170px
+}
+#start{
+	text-align: center;
+	background-color: blue;
+	width: 400px;
+	padding: 10px;
+	
+
+	
+	color: white;
+	text-decoration: none;
+	margin-top: 170px
+}
+#bord1{
+	height: 20vh;
+	width: 150px;
+	border: 1px solid black;
+	background-color: gray;
+	margin-left: 45px;
+}
+#bord1 img{
+	width: 100%;
+	height:auto;
+}	
+
+#winner{
+	margin-left: 500px;
+	font-size: 20px;
+	font-weight: bold;
+    margin-bottom: -40px;
+}
+
+#winner1{
+	margin-left: 700px;
+	font-size: 20px;
+	font-weight: bold;
+}	
